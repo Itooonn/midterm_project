@@ -11,23 +11,33 @@ A simple management system that allows Librian and like to add books to the list
 - Timestamps (created_at and updated_at)
 
 # 🖼️ A screenshot showing the working CRUD operations
-**Main Portfolio Page**
+**Main Page**
 
-This shows a simple landing page, it took inspiration from the windows 10 installation.
+![Main page](public/images/1.png)
 
-![Main page](public/images/mainpage.png)
+**CREATE**
 
-**Sub-page 1: Projects page**
+![Main page](public/images/2.png)
 
-This page shows the list of my group programming projects.
+![Main page](public/images/3.png)
 
-![Main page](public/images/projects.png)
+![Main page](public/images/4.png)
 
-**Sub-page 2: About me page**
+**READ**
 
-This page shows the information about myself, it includes my goals and my likes.
+![Main page](public/images/5.png)
 
-![Main page](public/images/about.png)
+**UPDATE**
+
+![Main page](public/images/6.png)
+
+![Main page](public/images/7.png)
+
+**DELELTE**
+
+![Main page](public/images/8.png)
+
+![Main page](public/images/9.png)
 
 
 
